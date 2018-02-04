@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+/*.iml
+/*.ipr
+/*.iws
+/.classpath
+/.factorypath
+/.idea
+/.project
+/.settings
+/nb*
+/release.properties
+/target
+
+# These are needed if running in IDE without properties set
+/ibderby
+derby.log
+/bin/
+
